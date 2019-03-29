@@ -1,2 +1,2 @@
 # machine_learning
-all the common useful ML algorithms
+All the common useful ML algorithms
